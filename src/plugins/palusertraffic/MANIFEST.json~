@@ -1,0 +1,9 @@
+{
+    "name"          : "PAL User Traffic Policy Registry",
+    "author"        : "Vasileios Kotronis",
+    "author-email"  : "vkotroni@tik.ee.ethz.ch",
+    "version"       : 1,
+    "implements"    : ["rpcserver", "xmlrpc"],
+    "loads-after"   : ["config"],
+    "requires"      : []
+}
