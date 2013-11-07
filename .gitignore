@@ -8,3 +8,4 @@ log/*
 _deployment
 rmpyc.sh
 TODO.txt
+.gitignore~
