@@ -1,3 +1,9 @@
+---This AM info---
+An AM based on AMSoil for handling user traffic as a resource, according to the PAL framework:
+http://conferences.sigcomm.org/sigcomm/2013/papers/hotsdn/p155.pdf
+https://dl.dropboxusercontent.com/u/19722763/PAL_poster_hotsdn_2013_final.pdf
+
+---AMSoil info---
 # Purpose
 
 AMsoil is a light-weight framework for creating Aggregate Managers (AM) for test beds.

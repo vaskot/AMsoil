@@ -1,7 +1,7 @@
 {
     "name"          : "PAL User Traffic Policy Registry",
     "author"        : "Vasileios Kotronis",
-    "author-email"  : "vkotroni@tik.ee.ethz.ch",
+    "author-email"  : "biece89@gmail.com",
     "version"       : 1,
     "implements"    : ["palusertrafficreg"],
     "loads-after"   : ["config", "worker"],
